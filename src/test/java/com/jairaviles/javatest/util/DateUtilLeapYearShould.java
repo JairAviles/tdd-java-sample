@@ -4,7 +4,6 @@ package com.jairaviles.javatest.util;
 import org.junit.jupiter.api.Test;
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class DateUtilLeapYearShould {
 
